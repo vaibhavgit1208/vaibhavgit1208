@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Shukla</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-![alt text](https://github.com/[vaibhavgit1208]/[reponame]/blob/[branch]/vaibhav.gif?raw=true)
+![vaibhav](https://github.com/vaibhavgit1208/vaibhavgit1208/assets/152358366/90bb986f-119e-409f-9713-be15aa921745)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavgit1208&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavgit1208" /> </p>
 
